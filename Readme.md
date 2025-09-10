@@ -25,11 +25,12 @@ This is a Power BI dashboard created to explore and analyze Amazon Prime’s col
 The dataset includes 125354 rows and 18 columns of movies and shows from Amazon Prime, covering details like title, genre, release year, popularity, and more.
 
 ## 📌 How to Explore
-1. Download the `dashboard.pbix` file.
+1. Download the `Dashboard.pbix` file.
 2. Open it with Power BI Desktop.
 3. Interact with filters and explore charts.
 
 Feel free to clone, fork, or share this project!
 
 ---
+
 

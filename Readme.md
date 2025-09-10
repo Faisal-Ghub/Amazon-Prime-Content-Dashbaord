@@ -5,7 +5,7 @@ This is a Power BI dashboard created to explore and analyze Amazon Prime’s col
 ## 📂 Files Included
 - **dashboard.pbix** – The Power BI project file.
 - **screenshots/** – Images showing different sections of the dashboard.
-- **README.md** – Project overview and setup instructions.
+- **Readme.md** – Project overview and setup instructions.
 
 ## 📊 Features
 - Interactive filters for genres, actors, and titles.
@@ -32,3 +32,4 @@ The dataset includes 125354 rows and 18 columns of movies and shows from Amazon 
 Feel free to clone, fork, or share this project!
 
 ---
+
